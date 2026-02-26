@@ -1,62 +1,42 @@
-👋 Hi, I'm Gisela Elia
+# 👋 Hi, I'm Gisela Elia
 
-💻 Full-Stack Software Engineer in Progress
+💻 **Front-End Software Engineer in Progress**
+
 📍 New Jersey, USA
 🚀 Passionate about building clean, scalable, and user-friendly web applications
 
-✨ About Me
+---
 
-Frontend Developer with strong foundations in React, JavaScript (ES6+), HTML5, and CSS3, currently completing an intensive Full-Stack Software Engineering bootcamp.
+## ✨ About Me
 
-I love building responsive, component-based user interfaces, integrating RESTful APIs, and creating smooth user experiences.
+Frontend Developer with strong foundations in modern web technologies and currently completing an intensive **Full-Stack Software Engineering Bootcamp**.
+
+I enjoy building responsive, component-based user interfaces, integrating RESTful APIs, and developing scalable backend services. My goal is to create seamless digital experiences that combine clean architecture with intuitive design.
 
 ✔️ Authorized to work in the U.S. for any employer
 ✔️ Background in leadership & team training
-✔️ Always learning. Always building.
+✔️ Committed to continuous learning and growth
 
-🛠️ Tech Stack
+---
 
-🎨 Frontend
+## 🛠️ Core Technologies
 
-React Router
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,nodejs,figma,react,express,vite)](https://skillicons.dev)
 
-BEM
+---
 
-CSS Grid & Flexbox
+## 🌱 Currently
 
-⚙️ Backend
+* Completing a Full-Stack Software Engineering Bootcamp
+* Building full-stack applications using React and Node.js
+* Strengthening backend architecture and API development skills
 
-RESTful APIs
+---
 
-JSON
+## 📫 Let’s Connect
 
-🧰 Tools & Practices
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giselaelia/)
 
-Modular Architecture
+---
 
-Cross-Browser Compatibility
-
-Conventional Commits
-
-Linting
-
-🌟 Soft Skills
-
-💡 Leadership
-📈 Process Optimization
-🎓 Team Training
-🤝 Client Communication
-
-📫 Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/giselaelia/
-
-🚀 Currently
-
-Completing Full-Stack Software Engineering Bootcamp
-
-Building React + Node projects
-
-Strengthening backend & database architecture skills
-
-✨ “Turning ideas into interactive experiences, one component at a time.”
+> ✨ *“Turning ideas into interactive experiences, one component at a time.”*
