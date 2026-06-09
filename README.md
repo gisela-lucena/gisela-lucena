@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gisela Elia
 
-💻 **Front-End Software Engineer in Progress**
+💻 **Full-Stack Software Engineer**
 
 📍 New Jersey, USA
 🚀 Passionate about building clean, scalable, and user-friendly web applications
@@ -9,9 +9,11 @@
 
 ## ✨ About Me
 
-Frontend Developer with strong foundations in modern web technologies and currently completing an intensive **Full-Stack Software Engineering Bootcamp**.
+Full-Stack Software Engineer with experience building, deploying, and maintaining web applications using React, Node.js, Express.js, MongoDB, and REST APIs.
 
-I enjoy building responsive, component-based user interfaces, integrating RESTful APIs, and developing scalable backend services. My goal is to create seamless digital experiences that combine clean architecture with intuitive design.
+Skilled in frontend and backend development, authentication and authorization, database design, API integration, and cloud deployment.
+
+Passionate about building scalable, user-focused software solutions and continuously expanding technical expertise. 
 
 ✔️ Authorized to work in the U.S. for any employer
 ✔️ Background in leadership & team training
@@ -27,7 +29,6 @@ I enjoy building responsive, component-based user interfaces, integrating RESTfu
 
 ## 🌱 Currently
 
-* Completing a Full-Stack Software Engineering Bootcamp
 * Building full-stack applications using React and Node.js
 * Strengthening backend architecture and API development skills
 
